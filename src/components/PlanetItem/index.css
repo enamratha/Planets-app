@@ -9,3 +9,10 @@
   align-items: center;
   color: #ffffff;
 }
+
+.description {
+  width: 80vw;
+  text-align: center;
+  font-family: 'roboto';
+  font-size: 20px;
+}
